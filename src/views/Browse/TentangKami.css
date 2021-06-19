@@ -1,0 +1,20 @@
+.section1 {
+  padding: 100px 0 !important;
+}
+
+.nav-tabs > .nav-item > .nav-link {
+  padding: 10px 20px !important;
+}
+
+.absolutes {
+  position: absolute;
+  margin-top: -85px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.mt-180 {
+  margin-top: 200px;
+}

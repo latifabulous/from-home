@@ -1,0 +1,31 @@
+@media (min-width: 576px) {
+  .form-inline .form-control {
+    display: inline-block;
+    width: 400px !important;
+    vertical-align: middle;
+  }
+}
+
+.left {
+  position: relative;
+  left: 15px;
+  width: 45px;
+  text-align: center;
+}
+
+.height {
+  font-size: 30px;
+}
+
+.nav-link p {
+  font-weight: bolder;
+  /* font-size: larger; */
+}
+
+.navbar-brand {
+  font-size: x-larger;
+}
+
+.nav-link p:hover {
+  font-weight: 600;
+}

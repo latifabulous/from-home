@@ -1,0 +1,25 @@
+.section {
+  padding: 110px 0 !important;
+}
+
+button {
+  margin: 4px 0px 4px 0px !important;
+}
+
+.rating {
+  display: inline !important;
+  margin: 0px 0px 50px 8px;
+}
+.img-ed:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+
+.img-ed {
+  /* min-height: 440px;
+  max-width: 300px; */
+}
+
+.desc {
+  display: inline;
+}

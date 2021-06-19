@@ -1,0 +1,68 @@
+.page-header {
+  min-height: 70vh !important;
+}
+
+.index-page .page-header {
+  height: 70vh !important;
+}
+.forms {
+  /* padding-top: 20px !important;
+  padding-bottom: 20px !important; */
+  font-size: 40px;
+}
+
+input {
+  font-size: 18px !important;
+  color: #9195a2 !important;
+}
+
+.form-group.no-border .form-control,
+.input-group.no-border .form-control {
+  padding-top: 31px !important;
+  padding-bottom: 31px !important;
+  padding-left: 60px !important;
+  width: 600px !important;
+}
+
+.famax {
+  padding-top: 2.5px !important;
+  padding-bottom: 2.5px !important;
+  font-size: 35px !important;
+}
+
+.vertical-divider {
+  margin-right: 24px;
+  width: 2px;
+  background: #e7e7e9;
+  height: 50%;
+  background-color: #242c45;
+}
+
+.sort {
+  background-color: #242c45 !important;
+  border: none !important;
+  position: absolute;
+  right: 60px;
+  /* padding: 31px !important; */
+  color: #9195a2 !important;
+  font-size: 18px !important;
+}
+
+option {
+  border: none !important;
+}
+
+.clear {
+  font-size: 20px;
+  margin-left: 410px !important;
+}
+
+.logo {
+  width: 50% !important;
+  height: 50% !important;
+  opacity: 0.2;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px !important;
+}
