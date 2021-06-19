@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo project [FromHome](https://from-homes.web.app/).
+
+## FromHome
+
+FromHome merupakan website untuk membaca buku online dengan tampilan dan fungsionalitas yang sedikit lebih baik. Untuk data bukunya kami menggunakan Google Books API.
 
 ## Available Scripts
 
